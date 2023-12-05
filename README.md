@@ -5,10 +5,7 @@
   <a href="https://www.linkedin.com/in/ruslan-khaydarov-986547274">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/alexpro2022?tab=repositories&q=telegram-bot)
 <!--
 **4ktivated/4ktivated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
