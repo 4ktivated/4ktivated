@@ -6,9 +6,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
     
-<h3 align="center">
-  <img src="https://komarev.com/ghpvc/?username=4ktivated&style=flat-square&color=blue" alt=""/>
-</h3>
+
+<img src="https://komarev.com/ghpvc/?username=4ktivated&style=flat-square&color=blue" alt=""/>
+
 <!--
 **4ktivated/4ktivated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
