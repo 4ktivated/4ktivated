@@ -4,7 +4,7 @@ Good to see you, my name is Ruslan, I am Python developer :sparkles:
 <h3>
 This place is my treasure room.
   
-Look at my way to be software engener.
+Watch me become a software developer.
 </h3>
 
 ### My tech skills:
