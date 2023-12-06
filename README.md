@@ -1,15 +1,26 @@
 <h1 align="center">
-Hello everyone, my name is Ruslan, I am Python developer
+Good to see you, my name is Ruslan, I am Python developer :sparkles: 
 </h1>
-
 <h3>
-  FastAPI, aiohttp, Docker, Git, PostgreSQL, REST, Linux
+This place is my treasure room.
+  
+Look at my way to be software engener.
 </h3>
+
+### My tech skills:
+-   FastAPI
+-   aiohttp
+-   Docker :whale:
+-   Git :octocat:
+-   PostgreSQL
+-   REST
+-   Linux
+-   Python :snake:
 <div id="badges">
   <a href="https://www.linkedin.com/in/ruslan-khaydarov-986547274">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="https://t.me/Rulevich">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </div>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=4ktivated&theme=dark&hide_longest_streak=true" alt="GitHub Streak" align="center" /></a>
 
