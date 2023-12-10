@@ -21,13 +21,15 @@ Watch me become a software developer.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="https://t.me/Rulevich">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-</div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=4ktivated&theme=dark&hide_longest_streak=true" alt="GitHub Streak" align="center" /></a>
+
 
 <!--
 **4ktivated/4ktivated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+счётнчик
+</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=4ktivated&theme=dark&hide_longest_streak=true" alt="GitHub Streak" align="center" /></a>
 
 
 анимации лишние но мне норавятся
