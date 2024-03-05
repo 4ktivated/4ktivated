@@ -1,5 +1,5 @@
 <h1 align="center">
-Good to see you, my name is Ruslan, I am Python developer :sparkles: 
+Good to see you, my name is Ruslan, I am Python/PHP developer :sparkles: 
 </h1>
 <h3>
 This place is my treasure room.
