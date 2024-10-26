@@ -1,19 +1,17 @@
 <h1 align="center">
-Good to see you, my name is Ruslan, I am Python/PHP developer :sparkles: 
+Good to see you, my name is Ruslan, I am GoLang/PHP developer :sparkles: 
 </h1>
 <h3>
 This place is my treasure room.
 </h3>
 
 ### My tech skills:
--   FastAPI
--   aiohttp
+-   GoLang
 -   Docker :whale:
 -   Git :octocat:
 -   PostgreSQL
 -   REST
 -   Linux
--   Python :snake:
 -   PHP
 <div id="badges">
   <a href="https://www.linkedin.com/in/ruslan-khaydarov-986547274">
@@ -22,7 +20,7 @@ This place is my treasure room.
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 
 
-<!--
+
 **4ktivated/4ktivated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -48,4 +46,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
