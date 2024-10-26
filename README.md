@@ -21,18 +21,18 @@ This place is my treasure room.
 
 
 
-Here are some ideas to get you started:
-счётнчик
+
 </div>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=4ktivated&theme=dark&hide_longest_streak=true" alt="GitHub Streak" align="center" /></a>
 
-
+<!--
+Here are some ideas to get you started:
 анимации лишние но мне норавятся
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"/>
 </div>
-
+-->
 
 
